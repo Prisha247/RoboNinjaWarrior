@@ -1,7 +1,7 @@
 remote_theme: Prisha247/minimal-mistakes
 logo: "https://qeacourse.github.io/RoboNinjaWarrior/website_graphics/olinlogo.png"
 title: "Robo Ninja Warrior"
-repository: qeacourse/RoboNinjaWarrior
+repository: Prisha247/RoboNinjaWarrior
 highlighter: rouge
 
 plugins:
