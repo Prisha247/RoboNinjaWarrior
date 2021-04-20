@@ -7,7 +7,7 @@ header:
   overlay_image: website_graphics/robo_splash.jpg
 feature_row:
   - image_path: https://img.youtube.com/vi/MFL4gd2IMm8/0.jpg
-    alt: "A thumbnail image for a video.  The text QEA Olin College of Engineering appears on a textured blue background"
+    alt: "A thumbnail image for a video.The text QEA Olin College of Engineering appears on a textured blue background"
     title: "Key Features of QEA"
     excerpt: "QEA is a highly interdisciplinary, integrated course for teaching technical content."
     url: "#course-philosophy"
