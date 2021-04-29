@@ -4,7 +4,6 @@ title: "Robo Ninja Warrior: Integrating Math, Science, and Engineering"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: website_graphics/robo_splash.jpg
 feature_row:
   - image_path: https://img.youtube.com/vi/MFL4gd2IMm8/0.jpg
     alt: "A thumbnail image for a video.The text QEA Olin College of Engineering appears on a textured blue background"
